@@ -25,7 +25,7 @@
 }
 
 @font-face {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-display: swap;
   src: url("../fonts/Tektur-Medium.woff2") format("woff2"), url("../fonts/Tektur-Medium.woff") format("woff");
   font-weight: 500;
@@ -57,7 +57,7 @@
 }
 
 @font-face {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-display: swap;
   src: url("../fonts/Tektur-SemiBold.woff2") format("woff2"), url("../fonts/Tektur-SemiBold.woff") format("woff");
   font-weight: 600;
@@ -229,7 +229,7 @@ input[type=search]::-webkit-search-results-decoration {
   position: relative;
   font-size: 16px;
   color: var(--white);
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   margin-bottom: 30px;
 }
@@ -395,7 +395,7 @@ input[type=search]::-webkit-search-results-decoration {
   color: var(--orange);
   position: relative;
   font-size: 16px;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
 }
 
@@ -485,7 +485,7 @@ input[type=search]::-webkit-search-results-decoration {
 }
 
 .form__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 2em;
@@ -814,7 +814,7 @@ body.over {
 }
 
 .btn {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
   font-size: 16px;
   padding: 1.07em 2.5em;
@@ -918,7 +918,7 @@ body.over {
 }
 
 .details-button {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: 14px;
   font-weight: 500;
   display: inline-block;
@@ -983,7 +983,7 @@ body.over {
 
 .section-title {
   color: var(--white);
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: clamp(26px, var(--index) * 1.95, 60px);
@@ -1089,7 +1089,7 @@ body.over {
 }
 
 .hero-section__title h1 {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 900;
   text-transform: uppercase;
   text-shadow: -4px 6px 0px #464646, -2px 4px 0px #464646, 0px 2px 0px #474747;
@@ -1280,7 +1280,7 @@ body.over {
 }
 
 .hero-top__phone {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   text-align: right;
 }
 
@@ -1474,7 +1474,7 @@ body.over {
   content: counter(num) ".";
   counter-increment: num;
   display: inline-block;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 800;
   font-size: 60px;
   color: var(--orange);
@@ -1489,7 +1489,7 @@ body.over {
 }
 
 .advantages-item__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   display: block;
   margin-bottom: 0.9em;
@@ -1520,7 +1520,7 @@ body.over {
 }
 
 .prices-items {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 30px;
@@ -1591,7 +1591,7 @@ body.over {
   justify-content: space-between;
   align-items: flex-end;
   margin-bottom: 20px;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
 }
 
 .prices-line:last-child {
@@ -1717,7 +1717,7 @@ body.over {
 }
 
 .prices-section__variant-button {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: 28px;
   font-weight: 500;
   position: relative;
@@ -1815,7 +1815,7 @@ body.over {
 }
 
 .promo-slider__item__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 700;
   font-size: clamp(18px, var(--index) * 1.2, 26px);
   margin-bottom: 1em;
@@ -1882,7 +1882,7 @@ body.over {
 }
 
 .installment-form__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   text-transform: uppercase;
   font-size: 40px;
   font-weight: 500;
@@ -2015,7 +2015,7 @@ body.over {
 }
 
 .add-services-slider__item__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
   font-size: 22px;
   color: var(--orange);
@@ -2223,7 +2223,7 @@ body.over {
 
 .models-actions__link {
   flex: 0 0 auto;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   font-size: 18px;
   text-decoration: underline;
@@ -2306,7 +2306,7 @@ body.over {
 }
 
 .materials-item__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
   font-size: 28px;
   margin-bottom: 1.4em;
@@ -2455,7 +2455,7 @@ body.over {
   position: absolute;
   top: 70px;
   left: 90px;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   font-size: 30px;
   display: flex;
@@ -2498,7 +2498,7 @@ body.over {
 .process-slide {
   width: 420px;
   text-align: center;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: 18px;
   font-weight: 500;
   padding: 30px;
@@ -2589,7 +2589,7 @@ body.over {
 }
 
 .certificates__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   font-size: 28px;
   margin-bottom: 1.5em;
@@ -2707,7 +2707,7 @@ body.over {
 }
 
 .team-slider__label .name {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: 18px;
   display: block;
   margin-bottom: 0.5em;
@@ -2754,7 +2754,7 @@ body.over {
 }
 
 .director__name span:nth-child(1) {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   font-size: 30px;
   color: var(--orange);
@@ -2834,7 +2834,7 @@ body.over {
 }
 
 .reviews-item__name {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: 24px;
   font-weight: 400;
   color: var(--bg-color-dark);
@@ -2872,7 +2872,7 @@ body.over {
 }
 
 .reviews-item__date {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   color: var(--bg-color-dark);
   font-size: 16px;
   font-weight: 400;
@@ -2944,7 +2944,7 @@ body.over {
 }
 
 .faqs-list__item__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
   font-size: 20px;
   padding: 1.5em 10% 1.5em 3.5%;
@@ -3068,7 +3068,7 @@ body.over {
 }
 
 .request-image__caption {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   font-size: 22px;
   text-transform: uppercase;
@@ -3173,7 +3173,7 @@ body.over {
 }
 
 .contacts-ways {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
   font-size: 24px;
   display: flex;
@@ -3586,7 +3586,7 @@ body.over {
   position: relative;
   background-color: var(--bg-color-dark);
   color: var(--orange);
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   font-size: 14px;
   display: flex;
@@ -3681,7 +3681,7 @@ body.over {
   height: 100%;
   width: 100%;
   overflow-y: auto;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   font-size: 24px;
 }
@@ -3710,7 +3710,7 @@ body.over {
 }
 
 .complex-content__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 400;
   font-size: 28px;
   margin-bottom: 1.5em;
@@ -3752,7 +3752,7 @@ body.over {
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: var(--bg-color-dark);
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   text-align: center;
   border-radius: var(--radius);
   visibility: hidden;
@@ -3843,7 +3843,7 @@ body.over {
 .page-title h1 {
   font-size: clamp(26px, var(--index) * 1.85, 56px);
   margin-bottom: 1.4em;
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
 }
 
@@ -3989,7 +3989,7 @@ body.over {
 }
 
 .article-item__title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-size: clamp(16px, var(--index) * 1.5, 20px);
   margin-bottom: 0.85em;
   margin-top: 0.4em;
@@ -4028,7 +4028,7 @@ body.over {
 }
 
 .pagination li a {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 500;
   font-size: 18px;
   color: var(--orange);
@@ -4109,7 +4109,7 @@ body.over {
 }
 
 .page-contents-title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   font-size: 20px;
   color: var(--orange);
@@ -4279,7 +4279,7 @@ body.over {
 }
 
 .cta-title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   font-size: 30px;
   margin-bottom: 1.15em;
@@ -4362,7 +4362,7 @@ body.over {
 }
 
 .work-page__summary-item .title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   color: var(--orange);
   text-transform: uppercase;
@@ -4684,7 +4684,7 @@ body.over {
 }
 
 .about-advantages__item .title {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   font-size: 22px;
   text-transform: uppercase;
@@ -4854,7 +4854,7 @@ body.over {
 }
 
 .price-header__total-cars {
-  font-family: Tektur;
+  font-family: Tektur, sans-serif;
   font-weight: 600;
   font-size: clamp(18px, var(--index) * 1.3, 30px);
   margin-top: 1.5em;
